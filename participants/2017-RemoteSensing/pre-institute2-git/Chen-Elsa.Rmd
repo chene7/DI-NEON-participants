@@ -1,0 +1,16 @@
+---
+title: "Chen-Elsa"
+author: "Elsa"
+date: "10/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## My domain of interest is big data, conservation, and animal behavior.
+
+#### One goal for the course is to become more familiar with the best practices for version control.
+
+## Capstone Project N/A
